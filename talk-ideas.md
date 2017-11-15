@@ -12,6 +12,6 @@ This is a collection of talk ideas from things that I deal with on a daily basis
 * Offline first javascript clients (and the synchronization of data), large topic
 * Static file management (cache busting, CDN deployment), small topic
 * The deprecation of jquery (Using es6 with babel / babili in a backwards compatible way), small topic
-* Vue.js / React.js primer, could be a large topic
-* Websockets, could be a medium topic; likely a small one
+* Vue.js or React.js primer, medium-large topic.
+* Websockets, small-medium topic
 * Mobile first development & responsive design, small-medium topic
