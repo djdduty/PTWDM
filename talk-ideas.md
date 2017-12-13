@@ -2,19 +2,18 @@
 
 This is a collection of talk ideas from things that I deal with on a daily basis or otherwise have researched / played with enough to try and share knowledge.
 
-### Guide
-"Large Topics" are topics which have the potential to be very lengthy talks or too large a scope to deal with in one session
+If someone else wants to present one of these topics instead, go ahead! Just let me know so I can put your name next to it or remove it from my list
 
 ### Subjects
-* Docker (Containerized deployments), large topic
-* Micro Service Architecture, medium topic
-* Firebase (and other serverless design), medium topic
-* Offline first javascript clients (and the synchronization of data), medium-large topic
-* Static file management (cache busting, CDN deployment), small topic
-* The deprecation of jquery (Using es6 with babel / babili in a backwards compatible way), small topic
-* Vue.js or React.js primer, medium-large topic.
-* Websockets, small-medium topic
-* Mobile first development & responsive design, small-medium topic
-* "Progressive" web apps, small topic
-* Functional Programming, medium topic
-* Javascript build processes, modules, browserifying, small-medium topic
+* Docker (Containerized deployments)
+* Micro Service Architecture
+* Firebase (and other serverless design)
+* Offline first javascript clients (and the synchronization of data)
+* Static file management (cache busting, CDN deployment)
+* The deprecation of jquery (Using es6 with babel / babili in a backwards compatible way)
+* Vue.js or React.js primer
+* Websockets
+* Mobile first development & responsive design
+* "Progressive" web apps
+* Functional Programming
+* Javascript build processes, modules, browserifying
