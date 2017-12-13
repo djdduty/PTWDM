@@ -16,6 +16,5 @@ This is a collection of talk ideas from things that I deal with on a daily basis
 * Websockets, small-medium topic
 * Mobile first development & responsive design, small-medium topic
 * "Progressive" web apps, small topic
-* Responsive design, small-medium topic
 * Functional Programming, medium topic
 * Javascript build processes, modules, browserifying, small-medium topic
