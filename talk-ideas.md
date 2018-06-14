@@ -1,9 +1,5 @@
 # Potential Talk Subjects
 
-This is a collection of talk ideas from things that I deal with on a daily basis or otherwise have researched / played with enough to try and share knowledge.
-
-If someone else wants to present one of these topics instead, go ahead! Just let me know so I can put your name next to it or remove it from my list
-
 ### Subjects
 * Docker (Containerized deployments)
 * Micro Service Architecture
